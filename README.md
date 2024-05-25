@@ -1,16 +1,30 @@
-# dice
+# Mi Card
 
-A new Flutter project.
+Mi Card is a simple Flutter UI that displays a personal mobile number with a name, phone number along with its designation. This project is designed to help beginners learn the basics of Android development, including layouts, views, and styling.
+
+## Features
+
+- Display a personal business card
+- Show name and phone number prominently
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will help you set up the project on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Android Studio installed on your machine
+- Basic knowledge of Android development and Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository to your local machine:
+
+   ```sh
+   git clone https://github.com/yourusername/mi_card.git
+
+2. Refer to the flutter documentation for more information about flutter
+
+### Note
+
+1. Feel free to edit the project and add new features. Thank You!!!
